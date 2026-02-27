@@ -1,0 +1,49 @@
+# Virtual environments
+venv/
+venv_gemini/
+.venv/
+env/
+
+# Environment variables (secrets)
+.env
+.env.local
+.env.production
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Binaries & installers
+*.exe
+
+# Archives
+*.zip
+
+# Duplicate nested copies
+Jarvis-Online-Test-main/
+Jarvis-Online-Test-cloned
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+control_log.txt
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# Build
+dist/
+build/
