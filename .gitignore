@@ -21,6 +21,10 @@ __pycache__/
 # Archives
 *.zip
 
+# Duplicate nested copies
+Jarvis-Online-Test-main/
+Jarvis-Online-Test-cloned
+
 # IDE
 .vscode/
 .idea/
